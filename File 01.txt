@@ -1,0 +1,5 @@
+This a demo repository. 
+Here I have created two programming file, one text file, and a readme.md file.
+The programming file is about C/C++. Here I write a simple C and C++ to print Hello World!!! 
+I have commited servel time in this repository. 
+I have also update the commited item in my PC through "git fetch" command.
