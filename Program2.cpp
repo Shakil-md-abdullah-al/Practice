@@ -6,3 +6,14 @@ int main()
 {
    printf("Hello World!!!");
 }
+
+/* Another way to print the progam */
+
+/*
+#include<iostream>
+
+int main()
+{
+
+std::cout<<"Hello World!!!";
+}
